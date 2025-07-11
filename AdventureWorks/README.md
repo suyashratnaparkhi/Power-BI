@@ -39,7 +39,7 @@ This project presents a fully interactive Power BI dashboard built for an imagin
 ## Screenshots
 
 ### Executive Dashboard Page
-![Executive Dashboard](AdventureWorks/Screen1_ExecutiveDashboard.png)
+![Executive Dashboard](Screen1_ExecutiveDashboard.png)
 
 ### Map Page  
 ![Map](assets/sales-analysis.png)
