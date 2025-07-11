@@ -45,10 +45,10 @@ This project presents a fully interactive Power BI dashboard built for an imagin
 ![Map](Screen2_Map.png)
 
 ### Product Details Page  
-![Product Details](Screen3_Product.png)
+![Product Details](Screen3_ProductDetails.png)
 
 ### Customer Details Page  
-![Customer Details](assets/customer-insights.png)
+![Customer Details](Screen4_CustomerDetails.png)
 
 ## License
 
