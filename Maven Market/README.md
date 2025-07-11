@@ -38,14 +38,8 @@ This project presents a comprehensive Power BI dashboard built for an imaginary 
 
 ## Screenshots
 
-### Dashboard Overview  
-![Dashboard Overview](assets/dashboard-overview.png)
-
-### Sales Analysis  
-![Sales Analysis](assets/sales-analysis.png)
-
-### Customer Trends  
-![Customer Trends](assets/customer-trends.png)
+### Dashboard
+![Dashboard](Screen1_Dashboard.png)
 
 ## License
 
