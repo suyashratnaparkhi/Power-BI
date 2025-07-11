@@ -49,8 +49,8 @@ This project presents a comprehensive Power BI dashboard built for an imaginary 
 
 ## License
 
-This project is intended for educational and portfolio use. The dataset used is fictional and publicly available.
+This project was developed for educational and portfolio purposes. The data used is publicly available sample data from the Adventure Works dataset.
 
 ## Contact
 
-For questions or to connect, visit my [LinkedIn](https://www.linkedin.com/).
+For any questions or collaborations, feel free to connect with me on [LinkedIn](linkedin.com/in/suyash-ratnaparkhi-a894a8373).
