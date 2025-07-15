@@ -69,7 +69,7 @@ The final report provides strategic insights into advertising decisions surround
 
 ## License
 
-This project was developed for educational and portfolio purposes. The data used is publicly available sample data from the Adventure Works dataset.
+This project is intended for educational and portfolio demonstration purposes. The dataset used is fictional and publicly available.
 
 ## Contact
 
