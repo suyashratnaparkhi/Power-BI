@@ -59,19 +59,19 @@ The final report provides strategic insights into advertising decisions surround
 ## Screenshots
 
 ### Executive Summary  
-![Executive Summary](/screen1_Executive Summary.png)
+![Executive Summary](screen1_Executive Summary.png)
 
 ### Brand Performance Analysis  
-![Brand Performance](/screen2_Brand Performance Analysis.png)
+![Brand Performance](screen2_Brand Performance Analysis.png)
 
 ### Content Strategy Analysis  
-![Content Strategy](/screen3_Content Strategy Analysis.png)
+![Content Strategy](screen3_Content Strategy Analysis.png)
 
 ## License
 
-This project is intended for educational and portfolio demonstration purposes. The dataset used is fictional and publicly available.
+This project was developed for educational and portfolio purposes. The data used is publicly available sample data from the Adventure Works dataset.
 
 ## Contact
 
-For feedback or professional inquiries, feel free to connect with me on [LinkedIn](https://www.linkedin.com/).
+For any questions or collaborations, feel free to connect with me on [LinkedIn](linkedin.com/in/suyash-ratnaparkhi-a894a8373).
 
