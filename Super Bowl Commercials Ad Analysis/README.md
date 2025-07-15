@@ -59,13 +59,13 @@ The final report provides strategic insights into advertising decisions surround
 ## Screenshots
 
 ### Executive Summary  
-![screen1_Executive Summary](screen1_Executive Summary.png)
+![screen1_Executive Summary](screen1_ExecutiveSummary.png)
 
 ### Brand Performance Analysis  
-![Brand Performance](screen2_Brand Performance Analysis.png)
+![Brand Performance](screen2_BrandPerformanceAnalysis.png)
 
 ### Content Strategy Analysis  
-![Content Strategy](screen3_Content Strategy Analysis.png)
+![Content Strategy](screen3_ContentStrategyAnalysis.png)
 
 ## License
 
